@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amaalhov.amaalhov)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=amaalhov&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaalhov&layout=compact)
+
+<!-- <a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
