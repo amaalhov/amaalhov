@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amaalhov.amaalhov) -->
-<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=amaalhov&count_private=true&show_icons=true&hide=contribs) -->
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amaalhov.amaalhov)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=amaalhov&count_private=true&show_icons=true&hide=contribs)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=amaalhov&count_private=true&show_icons=true)
 
